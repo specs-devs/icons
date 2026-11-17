@@ -1,0 +1,85 @@
+- !<AssetImportMetadata/c254b527-9626-4d30-9021-78b6370fb37a>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> a1c5520a-4905-4a8f-97db-a73aad0b69d7
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> a1c5520a-4905-4a8f-97db-a73aad0b69d7
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 5f37e3a2-8c8a-49a1-9a0b-69f31aed7653
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/5f37e3a2-8c8a-49a1-9a0b-69f31aed7653>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: e7a57e35-3454-4fbb-8066-b7ae88dfe565
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    atlas: false
+    cellSize: false
+    groupColumns: false
+    groupGap: false
+    iconColumns: false
+    iconMaterial: false
+    iconScale: false
+    nameTextHeight: false
+    overallScale: false
+    panelMaterial: false
+    panelPadding: false
+    showIconNames: false
+    showPanels: false
+    titleTextHeight: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - overallScale: !<float> 1.000000
+      iconScale: !<float> 1.000000
+      iconColumns: !<float> 10.000000
+      groupColumns: !<float> 2.000000
+      cellSize: !<float> 4.000000
+      groupGap: !<float> 6.000000
+      panelPadding: !<float> 2.000000
+      titleTextHeight: 2.600000
+      nameTextHeight: 0.600000
+      showIconNames: true
+      showPanels: true
+      iconMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      panelMaterial: !<reference.Material> 00000000-0000-0000-0000-000000000000
+      atlas: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input float overallScale = 1 {"label":"Overall Scale", "hint":"Uniform scale of the entire board."}'
+    - '// @input float iconScale = 1 {"label":"Icon Scale", "hint":"Size of each icon relative to its grid cell. 1 = fills 60% of the cell."}'
+    - '// @input float iconColumns = 10 {"label":"Grid Per Group (columns)", "hint":"Columns inside one directory panel. Rows are added as needed."}'
+    - '// @input float groupColumns = 2 {"label":"Grid Overall (columns)", "hint":"Columns of directory panels. Rows are added as needed."}'
+    - '// @input float cellSize = 4 {"label":"Cell Size (cm)", "hint":"Grid pitch — the spacing between icon centres."}'
+    - '// @input float groupGap = 6 {"label":"Group Gap (cm)", "hint":"Gap between directory panels."}'
+    - '// @input float panelPadding = 2 {"label":"Panel Padding (cm)", "hint":"Inset between a panel edge and its icon grid."}'
+    - '// @input float titleTextHeight = 2.6 {"label":"Group Title Height (cm)"}'
+    - '// @input float nameTextHeight = 0.6 {"label":"Icon Name Height (cm)", "hint":"Long names shrink to stay inside their cell."}'
+    - '// @input bool showIconNames = true {"label":"Show Icon Names"}'
+    - '// @input bool showPanels = true {"label":"Show Group Panels"}'
+    - '// @input Asset.Material iconMaterial {"hint":"Image material for the icon mesh — \"Icon Mat\". Cloned once; its baseTex is pointed at the atlas."}'
+    - '// @input Asset.Material panelMaterial {"hint":"Image material cloned per panel background — \"Panel Mat\"."}'
+    - '// @input Asset.Texture atlas {"hint":"The synced icon atlas — IconAtlas/icon-atlas.png. Its frame layout is described by the generated Scripts/IconFrames.ts."}'

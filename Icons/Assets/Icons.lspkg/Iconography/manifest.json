@@ -1,0 +1,1826 @@
+{
+  "figma_file_name": "SPECS Iconography 3.0",
+  "figma_version": "2405538499329233598",
+  "figma_last_modified": "2026-10-02T00:31:01Z",
+  "file_key": "z8lsenuNWiGJoAJ8rtb5wA",
+  "root_node_id": "2242:1861",
+  "export_scale": "0.4",
+  "icon_count": 363,
+  "icons": [
+    {
+      "node_id": "3846:1983",
+      "figma_name": "bell-off",
+      "path": "Alerts-notifications/bell-off.png"
+    },
+    {
+      "node_id": "3846:1982",
+      "figma_name": "bell",
+      "path": "Alerts-notifications/bell.png"
+    },
+    {
+      "node_id": "3175:1845",
+      "figma_name": "bug-done",
+      "path": "Alerts-notifications/bug-done.png"
+    },
+    {
+      "node_id": "3175:1846",
+      "figma_name": "bug-sync",
+      "path": "Alerts-notifications/bug-sync.png"
+    },
+    {
+      "node_id": "3175:1847",
+      "figma_name": "bug-upload",
+      "path": "Alerts-notifications/bug-upload.png"
+    },
+    {
+      "node_id": "3175:1848",
+      "figma_name": "bug",
+      "path": "Alerts-notifications/bug.png"
+    },
+    {
+      "node_id": "3164:1364",
+      "figma_name": "checkmark-badge",
+      "path": "Alerts-notifications/checkmark-badge.png"
+    },
+    {
+      "node_id": "2859:862",
+      "figma_name": "checkmark",
+      "path": "Alerts-notifications/checkmark.png"
+    },
+    {
+      "node_id": "2855:921",
+      "figma_name": "error-badge",
+      "path": "Alerts-notifications/error-badge.png"
+    },
+    {
+      "node_id": "4616:1482",
+      "figma_name": "hand-locked",
+      "path": "Alerts-notifications/hand-locked.png"
+    },
+    {
+      "node_id": "2874:824",
+      "figma_name": "hand-warning",
+      "path": "Alerts-notifications/hand-warning.png"
+    },
+    {
+      "node_id": "2707:2922",
+      "figma_name": "info-badge",
+      "path": "Alerts-notifications/info-badge.png"
+    },
+    {
+      "node_id": "2534:6146",
+      "figma_name": "info",
+      "path": "Alerts-notifications/info.png"
+    },
+    {
+      "node_id": "2534:6152",
+      "figma_name": "question-badge",
+      "path": "Alerts-notifications/question-badge.png"
+    },
+    {
+      "node_id": "2534:6149",
+      "figma_name": "question",
+      "path": "Alerts-notifications/question.png"
+    },
+    {
+      "node_id": "2933:2179",
+      "figma_name": "shield-check",
+      "path": "Alerts-notifications/shield-check.png"
+    },
+    {
+      "node_id": "2933:2180",
+      "figma_name": "shield-warning",
+      "path": "Alerts-notifications/shield-warning.png"
+    },
+    {
+      "node_id": "2933:2178",
+      "figma_name": "shield",
+      "path": "Alerts-notifications/shield.png"
+    },
+    {
+      "node_id": "2855:923",
+      "figma_name": "warning-badge",
+      "path": "Alerts-notifications/warning-badge.png"
+    },
+    {
+      "node_id": "5745:4578",
+      "figma_name": "cube-off",
+      "path": "Ar-devices/cube-off.png"
+    },
+    {
+      "node_id": "3164:1436",
+      "figma_name": "cube-solid",
+      "path": "Ar-devices/cube-solid.png"
+    },
+    {
+      "node_id": "5745:4413",
+      "figma_name": "cube-tracking-off",
+      "path": "Ar-devices/cube-tracking-off.png"
+    },
+    {
+      "node_id": "2933:2468",
+      "figma_name": "cube-tracking-warning",
+      "path": "Ar-devices/cube-tracking-warning.png"
+    },
+    {
+      "node_id": "2933:2469",
+      "figma_name": "cube-tracking",
+      "path": "Ar-devices/cube-tracking.png"
+    },
+    {
+      "node_id": "3164:1411",
+      "figma_name": "cube",
+      "path": "Ar-devices/cube.png"
+    },
+    {
+      "node_id": "2610:3669",
+      "figma_name": "globe-add",
+      "path": "Ar-devices/globe-add.png"
+    },
+    {
+      "node_id": "2574:455",
+      "figma_name": "globe-off",
+      "path": "Ar-devices/globe-off.png"
+    },
+    {
+      "node_id": "2608:605",
+      "figma_name": "globe-simple",
+      "path": "Ar-devices/globe-simple.png"
+    },
+    {
+      "node_id": "2574:481",
+      "figma_name": "globe-sparkle",
+      "path": "Ar-devices/globe-sparkle.png"
+    },
+    {
+      "node_id": "2574:369",
+      "figma_name": "globe",
+      "path": "Ar-devices/globe.png"
+    },
+    {
+      "node_id": "4534:2137",
+      "figma_name": "hand-controller-touch",
+      "path": "Ar-devices/hand-controller-touch.png"
+    },
+    {
+      "node_id": "2874:825",
+      "figma_name": "hand",
+      "path": "Ar-devices/hand.png"
+    },
+    {
+      "node_id": "3176:2304",
+      "figma_name": "immersive-mode",
+      "path": "Ar-devices/immersive-mode.png"
+    },
+    {
+      "node_id": "4533:1912",
+      "figma_name": "left-hand-controller",
+      "path": "Ar-devices/left-hand-controller.png"
+    },
+    {
+      "node_id": "2529:5886",
+      "figma_name": "lens-explorer",
+      "path": "Ar-devices/lens-explorer.png"
+    },
+    {
+      "node_id": "2737:439",
+      "figma_name": "lens-studio-draft",
+      "path": "Ar-devices/lens-studio-draft.png"
+    },
+    {
+      "node_id": "2737:678",
+      "figma_name": "lens-studio-error",
+      "path": "Ar-devices/lens-studio-error.png"
+    },
+    {
+      "node_id": "2737:546",
+      "figma_name": "lens-studio",
+      "path": "Ar-devices/lens-studio.png"
+    },
+    {
+      "node_id": "4108:2110",
+      "figma_name": "mirror-screen",
+      "path": "Ar-devices/mirror-screen.png"
+    },
+    {
+      "node_id": "3176:2303",
+      "figma_name": "normal-mode",
+      "path": "Ar-devices/normal-mode.png"
+    },
+    {
+      "node_id": "5843:5635",
+      "figma_name": "phone-arrow-down",
+      "path": "Ar-devices/phone-arrow-down.png"
+    },
+    {
+      "node_id": "4534:2027",
+      "figma_name": "phone-arrow-left",
+      "path": "Ar-devices/phone-arrow-left.png"
+    },
+    {
+      "node_id": "4042:4039",
+      "figma_name": "phone-controller-calibration",
+      "path": "Ar-devices/phone-controller-calibration.png"
+    },
+    {
+      "node_id": "4030:3890",
+      "figma_name": "phone-controller-default",
+      "path": "Ar-devices/phone-controller-default.png"
+    },
+    {
+      "node_id": "4042:4038",
+      "figma_name": "phone-controller-disabled",
+      "path": "Ar-devices/phone-controller-disabled.png"
+    },
+    {
+      "node_id": "4042:4037",
+      "figma_name": "phone-controller-limited",
+      "path": "Ar-devices/phone-controller-limited.png"
+    },
+    {
+      "node_id": "4042:4036",
+      "figma_name": "phone-controller-unsupported",
+      "path": "Ar-devices/phone-controller-unsupported.png"
+    },
+    {
+      "node_id": "3475:1218",
+      "figma_name": "phone",
+      "path": "Ar-devices/phone.png"
+    },
+    {
+      "node_id": "4542:1204",
+      "figma_name": "right-hand-controller",
+      "path": "Ar-devices/right-hand-controller.png"
+    },
+    {
+      "node_id": "2453:928",
+      "figma_name": "specs-tinted",
+      "path": "Ar-devices/specs-tinted.png"
+    },
+    {
+      "node_id": "2453:929",
+      "figma_name": "specs-untinted",
+      "path": "Ar-devices/specs-untinted.png"
+    },
+    {
+      "node_id": "2475:1103",
+      "figma_name": "arrow-back",
+      "path": "Arrows/arrow-back.png"
+    },
+    {
+      "node_id": "3511:3545",
+      "figma_name": "arrow-down-to",
+      "path": "Arrows/arrow-down-to.png"
+    },
+    {
+      "node_id": "2476:1117",
+      "figma_name": "arrow-down",
+      "path": "Arrows/arrow-down.png"
+    },
+    {
+      "node_id": "3511:3542",
+      "figma_name": "arrow-left-to",
+      "path": "Arrows/arrow-left-to.png"
+    },
+    {
+      "node_id": "2475:1106",
+      "figma_name": "arrow-left",
+      "path": "Arrows/arrow-left.png"
+    },
+    {
+      "node_id": "3511:3543",
+      "figma_name": "arrow-right-to",
+      "path": "Arrows/arrow-right-to.png"
+    },
+    {
+      "node_id": "2476:1113",
+      "figma_name": "arrow-right",
+      "path": "Arrows/arrow-right.png"
+    },
+    {
+      "node_id": "3511:3544",
+      "figma_name": "arrow-up-to",
+      "path": "Arrows/arrow-up-to.png"
+    },
+    {
+      "node_id": "2476:1114",
+      "figma_name": "arrow-up",
+      "path": "Arrows/arrow-up.png"
+    },
+    {
+      "node_id": "3511:3694",
+      "figma_name": "arrowhead-down",
+      "path": "Arrows/arrowhead-down.png"
+    },
+    {
+      "node_id": "3511:3697",
+      "figma_name": "arrowhead-left",
+      "path": "Arrows/arrowhead-left.png"
+    },
+    {
+      "node_id": "3511:3696",
+      "figma_name": "arrowhead-right",
+      "path": "Arrows/arrowhead-right.png"
+    },
+    {
+      "node_id": "3511:3695",
+      "figma_name": "arrowhead-up",
+      "path": "Arrows/arrowhead-up.png"
+    },
+    {
+      "node_id": "2855:736",
+      "figma_name": "arrows-maximize",
+      "path": "Arrows/arrows-maximize.png"
+    },
+    {
+      "node_id": "2855:739",
+      "figma_name": "arrows-minimize",
+      "path": "Arrows/arrows-minimize.png"
+    },
+    {
+      "node_id": "3969:1173",
+      "figma_name": "chevron-down-bold",
+      "path": "Arrows/chevron-down-bold.png"
+    },
+    {
+      "node_id": "2476:1129",
+      "figma_name": "chevron-down",
+      "path": "Arrows/chevron-down.png"
+    },
+    {
+      "node_id": "3969:1170",
+      "figma_name": "chevron-left-bold",
+      "path": "Arrows/chevron-left-bold.png"
+    },
+    {
+      "node_id": "2476:1125",
+      "figma_name": "chevron-left",
+      "path": "Arrows/chevron-left.png"
+    },
+    {
+      "node_id": "3969:1172",
+      "figma_name": "chevron-right-bold",
+      "path": "Arrows/chevron-right-bold.png"
+    },
+    {
+      "node_id": "2476:1120",
+      "figma_name": "chevron-right",
+      "path": "Arrows/chevron-right.png"
+    },
+    {
+      "node_id": "3969:1171",
+      "figma_name": "chevron-up-bold",
+      "path": "Arrows/chevron-up-bold.png"
+    },
+    {
+      "node_id": "2476:1126",
+      "figma_name": "chevron-up",
+      "path": "Arrows/chevron-up.png"
+    },
+    {
+      "node_id": "3511:2143",
+      "figma_name": "download",
+      "path": "Arrows/download.png"
+    },
+    {
+      "node_id": "4488:1290",
+      "figma_name": "forward-bold",
+      "path": "Arrows/forward-bold.png"
+    },
+    {
+      "node_id": "2434:1512",
+      "figma_name": "forward",
+      "path": "Arrows/forward.png"
+    },
+    {
+      "node_id": "3791:1118",
+      "figma_name": "loop-once",
+      "path": "Arrows/loop-once.png"
+    },
+    {
+      "node_id": "3791:1101",
+      "figma_name": "loop",
+      "path": "Arrows/loop.png"
+    },
+    {
+      "node_id": "3846:1782",
+      "figma_name": "move",
+      "path": "Arrows/move.png"
+    },
+    {
+      "node_id": "2933:2269",
+      "figma_name": "recent",
+      "path": "Arrows/recent.png"
+    },
+    {
+      "node_id": "2622:589",
+      "figma_name": "redo",
+      "path": "Arrows/redo.png"
+    },
+    {
+      "node_id": "3049:1203",
+      "figma_name": "refresh",
+      "path": "Arrows/refresh.png"
+    },
+    {
+      "node_id": "3484:14242",
+      "figma_name": "reset-alt",
+      "path": "Arrows/reset-alt.png"
+    },
+    {
+      "node_id": "3484:9774",
+      "figma_name": "reset",
+      "path": "Arrows/reset.png"
+    },
+    {
+      "node_id": "2855:1054",
+      "figma_name": "resize",
+      "path": "Arrows/resize.png"
+    },
+    {
+      "node_id": "5745:3944",
+      "figma_name": "selector",
+      "path": "Arrows/selector.png"
+    },
+    {
+      "node_id": "2855:1148",
+      "figma_name": "shuffle",
+      "path": "Arrows/shuffle.png"
+    },
+    {
+      "node_id": "2710:3168",
+      "figma_name": "syncing",
+      "path": "Arrows/syncing.png"
+    },
+    {
+      "node_id": "4488:1285",
+      "figma_name": "turn-left-bold",
+      "path": "Arrows/turn-left-bold.png"
+    },
+    {
+      "node_id": "2434:1507",
+      "figma_name": "turn-left",
+      "path": "Arrows/turn-left.png"
+    },
+    {
+      "node_id": "4488:1284",
+      "figma_name": "turn-right-bold",
+      "path": "Arrows/turn-right-bold.png"
+    },
+    {
+      "node_id": "2434:1506",
+      "figma_name": "turn-right",
+      "path": "Arrows/turn-right.png"
+    },
+    {
+      "node_id": "4488:1288",
+      "figma_name": "turn-sharp-left-bold",
+      "path": "Arrows/turn-sharp-left-bold.png"
+    },
+    {
+      "node_id": "2434:1511",
+      "figma_name": "turn-sharp-left",
+      "path": "Arrows/turn-sharp-left.png"
+    },
+    {
+      "node_id": "4488:1287",
+      "figma_name": "turn-sharp-right-bold",
+      "path": "Arrows/turn-sharp-right-bold.png"
+    },
+    {
+      "node_id": "2434:1510",
+      "figma_name": "turn-sharp-right",
+      "path": "Arrows/turn-sharp-right.png"
+    },
+    {
+      "node_id": "4488:1289",
+      "figma_name": "turn-slight-left-bold",
+      "path": "Arrows/turn-slight-left-bold.png"
+    },
+    {
+      "node_id": "2434:2900",
+      "figma_name": "turn-slight-left",
+      "path": "Arrows/turn-slight-left.png"
+    },
+    {
+      "node_id": "4488:1286",
+      "figma_name": "turn-slight-right-bold",
+      "path": "Arrows/turn-slight-right-bold.png"
+    },
+    {
+      "node_id": "2434:2899",
+      "figma_name": "turn-slight-right",
+      "path": "Arrows/turn-slight-right.png"
+    },
+    {
+      "node_id": "4488:1291",
+      "figma_name": "u-turn-bold",
+      "path": "Arrows/u-turn-bold.png"
+    },
+    {
+      "node_id": "2453:881",
+      "figma_name": "u-turn",
+      "path": "Arrows/u-turn.png"
+    },
+    {
+      "node_id": "2622:588",
+      "figma_name": "undo",
+      "path": "Arrows/undo.png"
+    },
+    {
+      "node_id": "3511:2142",
+      "figma_name": "upload",
+      "path": "Arrows/upload.png"
+    },
+    {
+      "node_id": "3110:1277",
+      "figma_name": "chat",
+      "path": "Communication-people/chat.png"
+    },
+    {
+      "node_id": "2933:2365",
+      "figma_name": "contacts",
+      "path": "Communication-people/contacts.png"
+    },
+    {
+      "node_id": "2584:482",
+      "figma_name": "incoming-call",
+      "path": "Communication-people/incoming-call.png"
+    },
+    {
+      "node_id": "2609:1037",
+      "figma_name": "incoming-video",
+      "path": "Communication-people/incoming-video.png"
+    },
+    {
+      "node_id": "2584:483",
+      "figma_name": "missed-call",
+      "path": "Communication-people/missed-call.png"
+    },
+    {
+      "node_id": "2609:1040",
+      "figma_name": "missed-video",
+      "path": "Communication-people/missed-video.png"
+    },
+    {
+      "node_id": "2584:481",
+      "figma_name": "outgoing-call",
+      "path": "Communication-people/outgoing-call.png"
+    },
+    {
+      "node_id": "2609:1034",
+      "figma_name": "outgoing-video",
+      "path": "Communication-people/outgoing-video.png"
+    },
+    {
+      "node_id": "2584:479",
+      "figma_name": "phone-call",
+      "path": "Communication-people/phone-call.png"
+    },
+    {
+      "node_id": "2584:480",
+      "figma_name": "phone-hang-up",
+      "path": "Communication-people/phone-hang-up.png"
+    },
+    {
+      "node_id": "2794:887",
+      "figma_name": "reply",
+      "path": "Communication-people/reply.png"
+    },
+    {
+      "node_id": "2794:914",
+      "figma_name": "send-to-alt",
+      "path": "Communication-people/send-to-alt.png"
+    },
+    {
+      "node_id": "3511:2050",
+      "figma_name": "send-to",
+      "path": "Communication-people/send-to.png"
+    },
+    {
+      "node_id": "2764:841",
+      "figma_name": "user-add",
+      "path": "Communication-people/user-add.png"
+    },
+    {
+      "node_id": "2861:1118",
+      "figma_name": "user-joined",
+      "path": "Communication-people/user-joined.png"
+    },
+    {
+      "node_id": "2920:1987",
+      "figma_name": "user-portrait",
+      "path": "Communication-people/user-portrait.png"
+    },
+    {
+      "node_id": "2764:842",
+      "figma_name": "user-remove",
+      "path": "Communication-people/user-remove.png"
+    },
+    {
+      "node_id": "2861:1150",
+      "figma_name": "user-removed",
+      "path": "Communication-people/user-removed.png"
+    },
+    {
+      "node_id": "3108:1101",
+      "figma_name": "user-unknown",
+      "path": "Communication-people/user-unknown.png"
+    },
+    {
+      "node_id": "2764:799",
+      "figma_name": "user",
+      "path": "Communication-people/user.png"
+    },
+    {
+      "node_id": "4723:12020",
+      "figma_name": "users-group-alt",
+      "path": "Communication-people/users-group-alt-4723-12020.png"
+    },
+    {
+      "node_id": "2848:1213",
+      "figma_name": "users-group-alt",
+      "path": "Communication-people/users-group-alt.png"
+    },
+    {
+      "node_id": "3411:3542",
+      "figma_name": "users-group",
+      "path": "Communication-people/users-group.png"
+    },
+    {
+      "node_id": "2536:6838",
+      "figma_name": "video-camera-off",
+      "path": "Communication-people/video-camera-off.png"
+    },
+    {
+      "node_id": "2536:6837",
+      "figma_name": "video-camera-on",
+      "path": "Communication-people/video-camera-on.png"
+    },
+    {
+      "node_id": "2526:307",
+      "figma_name": "adjustments",
+      "path": "Editing/adjustments.png"
+    },
+    {
+      "node_id": "3511:4862",
+      "figma_name": "area",
+      "path": "Editing/area.png"
+    },
+    {
+      "node_id": "2609:1076",
+      "figma_name": "asterisk",
+      "path": "Editing/asterisk.png"
+    },
+    {
+      "node_id": "3175:1728",
+      "figma_name": "blend",
+      "path": "Editing/blend.png"
+    },
+    {
+      "node_id": "3943:1115",
+      "figma_name": "brush",
+      "path": "Editing/brush.png"
+    },
+    {
+      "node_id": "3114:1209",
+      "figma_name": "copy",
+      "path": "Editing/copy.png"
+    },
+    {
+      "node_id": "3115:1250",
+      "figma_name": "crop",
+      "path": "Editing/crop.png"
+    },
+    {
+      "node_id": "3114:1208",
+      "figma_name": "cut",
+      "path": "Editing/cut.png"
+    },
+    {
+      "node_id": "3475:1497",
+      "figma_name": "distance",
+      "path": "Editing/distance.png"
+    },
+    {
+      "node_id": "2859:887",
+      "figma_name": "draw",
+      "path": "Editing/draw.png"
+    },
+    {
+      "node_id": "2859:820",
+      "figma_name": "erase",
+      "path": "Editing/erase.png"
+    },
+    {
+      "node_id": "3511:4857",
+      "figma_name": "line",
+      "path": "Editing/line.png"
+    },
+    {
+      "node_id": "3144:1557",
+      "figma_name": "opacity",
+      "path": "Editing/opacity.png"
+    },
+    {
+      "node_id": "3918:1113",
+      "figma_name": "palette",
+      "path": "Editing/palette.png"
+    },
+    {
+      "node_id": "3114:1210",
+      "figma_name": "paste",
+      "path": "Editing/paste.png"
+    },
+    {
+      "node_id": "2564:2189",
+      "figma_name": "pencil-block",
+      "path": "Editing/pencil-block.png"
+    },
+    {
+      "node_id": "2564:2190",
+      "figma_name": "pencil-line",
+      "path": "Editing/pencil-line.png"
+    },
+    {
+      "node_id": "2564:1997",
+      "figma_name": "pencil-slash",
+      "path": "Editing/pencil-slash.png"
+    },
+    {
+      "node_id": "2564:1996",
+      "figma_name": "pencil",
+      "path": "Editing/pencil.png"
+    },
+    {
+      "node_id": "2757:610",
+      "figma_name": "push-pin-off",
+      "path": "Editing/push-pin-off.png"
+    },
+    {
+      "node_id": "2757:609",
+      "figma_name": "push-pin",
+      "path": "Editing/push-pin.png"
+    },
+    {
+      "node_id": "3484:1088",
+      "figma_name": "ruler",
+      "path": "Editing/ruler.png"
+    },
+    {
+      "node_id": "2838:1463",
+      "figma_name": "shapes",
+      "path": "Editing/shapes.png"
+    },
+    {
+      "node_id": "2617:594",
+      "figma_name": "sort-a-z",
+      "path": "Editing/sort-a-z.png"
+    },
+    {
+      "node_id": "2616:425",
+      "figma_name": "sort-ascending",
+      "path": "Editing/sort-ascending.png"
+    },
+    {
+      "node_id": "2616:428",
+      "figma_name": "sort-descending",
+      "path": "Editing/sort-descending.png"
+    },
+    {
+      "node_id": "2617:596",
+      "figma_name": "sort-z-a",
+      "path": "Editing/sort-z-a.png"
+    },
+    {
+      "node_id": "2855:1078",
+      "figma_name": "transform",
+      "path": "Editing/transform.png"
+    },
+    {
+      "node_id": "3511:4460",
+      "figma_name": "book-bookmarks",
+      "path": "Files/book-bookmarks.png"
+    },
+    {
+      "node_id": "3511:4669",
+      "figma_name": "book",
+      "path": "Files/book.png"
+    },
+    {
+      "node_id": "3049:954",
+      "figma_name": "bookmark",
+      "path": "Files/bookmark.png"
+    },
+    {
+      "node_id": "3049:955",
+      "figma_name": "bookmarked",
+      "path": "Files/bookmarked.png"
+    },
+    {
+      "node_id": "3080:1352",
+      "figma_name": "cloud-download",
+      "path": "Files/cloud-download.png"
+    },
+    {
+      "node_id": "3075:1049",
+      "figma_name": "cloud-off",
+      "path": "Files/cloud-off.png"
+    },
+    {
+      "node_id": "3080:1355",
+      "figma_name": "cloud-sync-error",
+      "path": "Files/cloud-sync-error.png"
+    },
+    {
+      "node_id": "3080:1358",
+      "figma_name": "cloud-sync",
+      "path": "Files/cloud-sync.png"
+    },
+    {
+      "node_id": "3080:1349",
+      "figma_name": "cloud-upload",
+      "path": "Files/cloud-upload.png"
+    },
+    {
+      "node_id": "2874:1018",
+      "figma_name": "cloud",
+      "path": "Files/cloud.png"
+    },
+    {
+      "node_id": "4667:1450",
+      "figma_name": "document-fold",
+      "path": "Files/document-fold.png"
+    },
+    {
+      "node_id": "4667:1449",
+      "figma_name": "document",
+      "path": "Files/document.png"
+    },
+    {
+      "node_id": "6378:1397",
+      "figma_name": "floppy-disk",
+      "path": "Files/floppy-disk.png"
+    },
+    {
+      "node_id": "4108:2041",
+      "figma_name": "folder",
+      "path": "Files/folder.png"
+    },
+    {
+      "node_id": "2748:989",
+      "figma_name": "list-view",
+      "path": "Files/list-view.png"
+    },
+    {
+      "node_id": "2874:963",
+      "figma_name": "page-add",
+      "path": "Files/page-add.png"
+    },
+    {
+      "node_id": "2874:962",
+      "figma_name": "page",
+      "path": "Files/page.png"
+    },
+    {
+      "node_id": "4667:1448",
+      "figma_name": "scroll",
+      "path": "Files/scroll.png"
+    },
+    {
+      "node_id": "2836:1201",
+      "figma_name": "square-plus",
+      "path": "Files/square-plus.png"
+    },
+    {
+      "node_id": "2836:1370",
+      "figma_name": "sticker",
+      "path": "Files/sticker.png"
+    },
+    {
+      "node_id": "3250:1841",
+      "figma_name": "123",
+      "path": "Input/123.png"
+    },
+    {
+      "node_id": "3250:1838",
+      "figma_name": "abc",
+      "path": "Input/abc.png"
+    },
+    {
+      "node_id": "3752:2575",
+      "figma_name": "american-football",
+      "path": "Input/american-football.png"
+    },
+    {
+      "node_id": "3425:1756",
+      "figma_name": "animal",
+      "path": "Input/animal.png"
+    },
+    {
+      "node_id": "2717:937",
+      "figma_name": "backspace",
+      "path": "Input/backspace.png"
+    },
+    {
+      "node_id": "3596:2273",
+      "figma_name": "basketball",
+      "path": "Input/basketball.png"
+    },
+    {
+      "node_id": "2855:1209",
+      "figma_name": "car",
+      "path": "Input/car.png"
+    },
+    {
+      "node_id": "3922:1130",
+      "figma_name": "cup",
+      "path": "Input/cup.png"
+    },
+    {
+      "node_id": "3425:1755",
+      "figma_name": "emoji",
+      "path": "Input/emoji.png"
+    },
+    {
+      "node_id": "2717:882",
+      "figma_name": "enter",
+      "path": "Input/enter.png"
+    },
+    {
+      "node_id": "6475:1452",
+      "figma_name": "esc",
+      "path": "Input/esc.png"
+    },
+    {
+      "node_id": "3838:1509",
+      "figma_name": "flag-emoji",
+      "path": "Input/flag-emoji.png"
+    },
+    {
+      "node_id": "3070:1540",
+      "figma_name": "font-size",
+      "path": "Input/font-size.png"
+    },
+    {
+      "node_id": "3595:2136",
+      "figma_name": "food",
+      "path": "Input/food.png"
+    },
+    {
+      "node_id": "2855:950",
+      "figma_name": "keyboard-bluetooth-alt",
+      "path": "Input/keyboard-bluetooth-alt.png"
+    },
+    {
+      "node_id": "3176:1978",
+      "figma_name": "keyboard-bluetooth",
+      "path": "Input/keyboard-bluetooth.png"
+    },
+    {
+      "node_id": "6475:1602",
+      "figma_name": "keyboard-surface-alt",
+      "path": "Input/keyboard-surface-alt.png"
+    },
+    {
+      "node_id": "6482:1853",
+      "figma_name": "keyboard-surface",
+      "path": "Input/keyboard-surface.png"
+    },
+    {
+      "node_id": "2742:958",
+      "figma_name": "keyboard",
+      "path": "Input/keyboard.png"
+    },
+    {
+      "node_id": "2742:1100",
+      "figma_name": "keypad",
+      "path": "Input/keypad.png"
+    },
+    {
+      "node_id": "2710:3249",
+      "figma_name": "letter-T",
+      "path": "Input/letter-t.png"
+    },
+    {
+      "node_id": "4108:1976",
+      "figma_name": "mobile-keyboard-activity-1",
+      "path": "Input/mobile-keyboard-activity-1.png"
+    },
+    {
+      "node_id": "4108:1977",
+      "figma_name": "mobile-keyboard-activity-2",
+      "path": "Input/mobile-keyboard-activity-2.png"
+    },
+    {
+      "node_id": "4108:1975",
+      "figma_name": "mobile-keyboard",
+      "path": "Input/mobile-keyboard.png"
+    },
+    {
+      "node_id": "3425:1754",
+      "figma_name": "people",
+      "path": "Input/people.png"
+    },
+    {
+      "node_id": "4900:1309",
+      "figma_name": "puzzle-piece",
+      "path": "Input/puzzle-piece.png"
+    },
+    {
+      "node_id": "3175:1908",
+      "figma_name": "shift-capslock",
+      "path": "Input/shift-capslock.png"
+    },
+    {
+      "node_id": "6196:1397",
+      "figma_name": "shift-inactive",
+      "path": "Input/shift-inactive.png"
+    },
+    {
+      "node_id": "2717:896",
+      "figma_name": "shift",
+      "path": "Input/shift.png"
+    },
+    {
+      "node_id": "4587:1272",
+      "figma_name": "space-bar",
+      "path": "Input/space-bar.png"
+    },
+    {
+      "node_id": "4671:1653",
+      "figma_name": "text-simple-alt",
+      "path": "Input/text-simple-alt.png"
+    },
+    {
+      "node_id": "4671:1819",
+      "figma_name": "text-simple",
+      "path": "Input/text-simple.png"
+    },
+    {
+      "node_id": "4806:1265",
+      "figma_name": "translate",
+      "path": "Input/translate.png"
+    },
+    {
+      "node_id": "2839:1706",
+      "figma_name": "add-image",
+      "path": "Media/add-image.png"
+    },
+    {
+      "node_id": "2534:6155",
+      "figma_name": "camera",
+      "path": "Media/camera.png"
+    },
+    {
+      "node_id": "3144:1279",
+      "figma_name": "fast-forward-fast",
+      "path": "Media/fast-forward-fast.png"
+    },
+    {
+      "node_id": "3144:1262",
+      "figma_name": "fast-forward",
+      "path": "Media/fast-forward.png"
+    },
+    {
+      "node_id": "3142:1655",
+      "figma_name": "forward-10",
+      "path": "Media/forward-10.png"
+    },
+    {
+      "node_id": "3142:1654",
+      "figma_name": "forward-30",
+      "path": "Media/forward-30.png"
+    },
+    {
+      "node_id": "3145:1639",
+      "figma_name": "gallery",
+      "path": "Media/gallery.png"
+    },
+    {
+      "node_id": "5198:1440",
+      "figma_name": "headphones",
+      "path": "Media/headphones.png"
+    },
+    {
+      "node_id": "4534:2260",
+      "figma_name": "image-landscape",
+      "path": "Media/image-landscape.png"
+    },
+    {
+      "node_id": "4534:2266",
+      "figma_name": "image-portrait",
+      "path": "Media/image-portrait.png"
+    },
+    {
+      "node_id": "2839:1705",
+      "figma_name": "image",
+      "path": "Media/image.png"
+    },
+    {
+      "node_id": "2529:3843",
+      "figma_name": "microphone-off",
+      "path": "Media/microphone-off.png"
+    },
+    {
+      "node_id": "2529:3842",
+      "figma_name": "microphone-on",
+      "path": "Media/microphone-on.png"
+    },
+    {
+      "node_id": "2528:3734",
+      "figma_name": "pause",
+      "path": "Media/pause.png"
+    },
+    {
+      "node_id": "2528:3731",
+      "figma_name": "play",
+      "path": "Media/play.png"
+    },
+    {
+      "node_id": "3142:1653",
+      "figma_name": "replay-10",
+      "path": "Media/replay-10.png"
+    },
+    {
+      "node_id": "3142:1652",
+      "figma_name": "replay-30",
+      "path": "Media/replay-30.png"
+    },
+    {
+      "node_id": "3169:1532",
+      "figma_name": "rewind-fast",
+      "path": "Media/rewind-fast.png"
+    },
+    {
+      "node_id": "3169:1533",
+      "figma_name": "rewind",
+      "path": "Media/rewind.png"
+    },
+    {
+      "node_id": "3969:1327",
+      "figma_name": "screen-capture",
+      "path": "Media/screen-capture.png"
+    },
+    {
+      "node_id": "2528:3728",
+      "figma_name": "skip-back",
+      "path": "Media/skip-back.png"
+    },
+    {
+      "node_id": "2528:3737",
+      "figma_name": "skip-forward",
+      "path": "Media/skip-forward.png"
+    },
+    {
+      "node_id": "2528:3740",
+      "figma_name": "speaker-volume-0",
+      "path": "Media/speaker-volume-0.png"
+    },
+    {
+      "node_id": "2528:3748",
+      "figma_name": "speaker-volume-high",
+      "path": "Media/speaker-volume-high.png"
+    },
+    {
+      "node_id": "2528:3743",
+      "figma_name": "speaker-volume-low",
+      "path": "Media/speaker-volume-low.png"
+    },
+    {
+      "node_id": "2808:4200",
+      "figma_name": "stop",
+      "path": "Media/stop.png"
+    },
+    {
+      "node_id": "3115:1267",
+      "figma_name": "viewfinder-dot",
+      "path": "Media/viewfinder-dot.png"
+    },
+    {
+      "node_id": "5843:5649",
+      "figma_name": "viewfinder",
+      "path": "Media/viewfinder.png"
+    },
+    {
+      "node_id": "2703:5983",
+      "figma_name": "volume-mute",
+      "path": "Media/volume-mute.png"
+    },
+    {
+      "node_id": "2528:3751",
+      "figma_name": "volume-off",
+      "path": "Media/volume-off.png"
+    },
+    {
+      "node_id": "3104:1017",
+      "figma_name": "waveform",
+      "path": "Media/waveform.png"
+    },
+    {
+      "node_id": "6109:1878",
+      "figma_name": "AI",
+      "path": "Misc/ai.png"
+    },
+    {
+      "node_id": "5435:1548",
+      "figma_name": "basket",
+      "path": "Misc/basket.png"
+    },
+    {
+      "node_id": "5921:1349",
+      "figma_name": "crosshair",
+      "path": "Misc/crosshair.png"
+    },
+    {
+      "node_id": "6562:1399",
+      "figma_name": "dot-blank",
+      "path": "Misc/dot-blank.png"
+    },
+    {
+      "node_id": "6562:1400",
+      "figma_name": "dot-red",
+      "path": "Misc/dot-red.png"
+    },
+    {
+      "node_id": "3941:1103",
+      "figma_name": "flask",
+      "path": "Misc/flask.png"
+    },
+    {
+      "node_id": "2710:3071",
+      "figma_name": "follow-eye",
+      "path": "Misc/follow-eye.png"
+    },
+    {
+      "node_id": "2710:2978",
+      "figma_name": "follow-focus",
+      "path": "Misc/follow-focus.png"
+    },
+    {
+      "node_id": "2710:3084",
+      "figma_name": "follow-pin",
+      "path": "Misc/follow-pin.png"
+    },
+    {
+      "node_id": "2529:5889",
+      "figma_name": "gear-alt",
+      "path": "Misc/gear-alt.png"
+    },
+    {
+      "node_id": "2742:1277",
+      "figma_name": "grid-dense",
+      "path": "Misc/grid-dense.png"
+    },
+    {
+      "node_id": "6402:2021",
+      "figma_name": "histogram",
+      "path": "Misc/histogram.png"
+    },
+    {
+      "node_id": "2839:1707",
+      "figma_name": "infinity",
+      "path": "Misc/infinity.png"
+    },
+    {
+      "node_id": "6413:1374",
+      "figma_name": "magnet",
+      "path": "Misc/magnet.png"
+    },
+    {
+      "node_id": "2730:571",
+      "figma_name": "molecule",
+      "path": "Misc/molecule.png"
+    },
+    {
+      "node_id": "3714:3220",
+      "figma_name": "nose",
+      "path": "Misc/nose.png"
+    },
+    {
+      "node_id": "2834:678",
+      "figma_name": "star-7",
+      "path": "Misc/star-7.png"
+    },
+    {
+      "node_id": "5428:1466",
+      "figma_name": "symmetry",
+      "path": "Misc/symmetry.png"
+    },
+    {
+      "node_id": "5198:1513",
+      "figma_name": "thought-bubble",
+      "path": "Misc/thought-bubble.png"
+    },
+    {
+      "node_id": "2489:2526",
+      "figma_name": "battery-0",
+      "path": "Signal-devices/battery-0.png"
+    },
+    {
+      "node_id": "2489:2538",
+      "figma_name": "battery-100",
+      "path": "Signal-devices/battery-100.png"
+    },
+    {
+      "node_id": "2489:2529",
+      "figma_name": "battery-25",
+      "path": "Signal-devices/battery-25.png"
+    },
+    {
+      "node_id": "2489:2532",
+      "figma_name": "battery-50",
+      "path": "Signal-devices/battery-50.png"
+    },
+    {
+      "node_id": "2489:2535",
+      "figma_name": "battery-75",
+      "path": "Signal-devices/battery-75.png"
+    },
+    {
+      "node_id": "2489:2541",
+      "figma_name": "battery-charge-0",
+      "path": "Signal-devices/battery-charge-0.png"
+    },
+    {
+      "node_id": "2489:2553",
+      "figma_name": "battery-charge-100",
+      "path": "Signal-devices/battery-charge-100.png"
+    },
+    {
+      "node_id": "2489:2544",
+      "figma_name": "battery-charge-25",
+      "path": "Signal-devices/battery-charge-25.png"
+    },
+    {
+      "node_id": "2489:2547",
+      "figma_name": "battery-charge-50",
+      "path": "Signal-devices/battery-charge-50.png"
+    },
+    {
+      "node_id": "2489:2550",
+      "figma_name": "battery-charge-75",
+      "path": "Signal-devices/battery-charge-75.png"
+    },
+    {
+      "node_id": "2609:824",
+      "figma_name": "bluetooth-none",
+      "path": "Signal-devices/bluetooth-none.png"
+    },
+    {
+      "node_id": "2529:5900",
+      "figma_name": "bluetooth-off",
+      "path": "Signal-devices/bluetooth-off.png"
+    },
+    {
+      "node_id": "2529:5899",
+      "figma_name": "bluetooth-on",
+      "path": "Signal-devices/bluetooth-on.png"
+    },
+    {
+      "node_id": "3484:1005",
+      "figma_name": "cellular-data",
+      "path": "Signal-devices/cellular-data.png"
+    },
+    {
+      "node_id": "3070:1178",
+      "figma_name": "cellular-signal-1",
+      "path": "Signal-devices/cellular-signal-1.png"
+    },
+    {
+      "node_id": "3070:1177",
+      "figma_name": "cellular-signal-2",
+      "path": "Signal-devices/cellular-signal-2.png"
+    },
+    {
+      "node_id": "3070:1176",
+      "figma_name": "cellular-signal-3",
+      "path": "Signal-devices/cellular-signal-3.png"
+    },
+    {
+      "node_id": "3070:1175",
+      "figma_name": "cellular-signal-4",
+      "path": "Signal-devices/cellular-signal-4.png"
+    },
+    {
+      "node_id": "3070:1179",
+      "figma_name": "cellular-signal-no",
+      "path": "Signal-devices/cellular-signal-no.png"
+    },
+    {
+      "node_id": "3067:1111",
+      "figma_name": "hotspot",
+      "path": "Signal-devices/hotspot.png"
+    },
+    {
+      "node_id": "3465:1236",
+      "figma_name": "plane-alt",
+      "path": "Signal-devices/plane-alt.png"
+    },
+    {
+      "node_id": "3425:1228",
+      "figma_name": "plane",
+      "path": "Signal-devices/plane.png"
+    },
+    {
+      "node_id": "2848:1002",
+      "figma_name": "wifi-1-simple",
+      "path": "Signal-devices/wifi-1-simple.png"
+    },
+    {
+      "node_id": "2476:3686",
+      "figma_name": "wifi-1",
+      "path": "Signal-devices/wifi-1.png"
+    },
+    {
+      "node_id": "2848:1006",
+      "figma_name": "wifi-2-simple",
+      "path": "Signal-devices/wifi-2-simple.png"
+    },
+    {
+      "node_id": "2476:3691",
+      "figma_name": "wifi-2",
+      "path": "Signal-devices/wifi-2.png"
+    },
+    {
+      "node_id": "2808:4802",
+      "figma_name": "wifi-3-simple",
+      "path": "Signal-devices/wifi-3-simple.png"
+    },
+    {
+      "node_id": "2476:3696",
+      "figma_name": "wifi-3",
+      "path": "Signal-devices/wifi-3.png"
+    },
+    {
+      "node_id": "2476:3698",
+      "figma_name": "wifi-4",
+      "path": "Signal-devices/wifi-4.png"
+    },
+    {
+      "node_id": "2848:1009",
+      "figma_name": "wifi-none-simple",
+      "path": "Signal-devices/wifi-none-simple.png"
+    },
+    {
+      "node_id": "2476:3703",
+      "figma_name": "wifi-none",
+      "path": "Signal-devices/wifi-none.png"
+    },
+    {
+      "node_id": "2848:1000",
+      "figma_name": "wifi-off-simple",
+      "path": "Signal-devices/wifi-off-simple.png"
+    },
+    {
+      "node_id": "2609:809",
+      "figma_name": "wifi-off",
+      "path": "Signal-devices/wifi-off.png"
+    },
+    {
+      "node_id": "3070:984",
+      "figma_name": "wifi-tethering",
+      "path": "Signal-devices/wifi-tethering.png"
+    },
+    {
+      "node_id": "2489:636",
+      "figma_name": "add-to-home",
+      "path": "System/add-to-home.png"
+    },
+    {
+      "node_id": "2609:1043",
+      "figma_name": "add",
+      "path": "System/add.png"
+    },
+    {
+      "node_id": "4197:1578",
+      "figma_name": "auto-tint",
+      "path": "System/auto-tint.png"
+    },
+    {
+      "node_id": "3969:1547",
+      "figma_name": "blocked",
+      "path": "System/blocked.png"
+    },
+    {
+      "node_id": "4194:1329",
+      "figma_name": "brightness-auto",
+      "path": "System/brightness-auto.png"
+    },
+    {
+      "node_id": "2903:916",
+      "figma_name": "bus",
+      "path": "System/bus.png"
+    },
+    {
+      "node_id": "3475:1483",
+      "figma_name": "clock",
+      "path": "System/clock.png"
+    },
+    {
+      "node_id": "2489:684",
+      "figma_name": "close",
+      "path": "System/close.png"
+    },
+    {
+      "node_id": "4483:1167",
+      "figma_name": "contrast",
+      "path": "System/contrast.png"
+    },
+    {
+      "node_id": "3475:1282",
+      "figma_name": "credit-card",
+      "path": "System/credit-card.png"
+    },
+    {
+      "node_id": "6400:1571",
+      "figma_name": "display",
+      "path": "System/display.png"
+    },
+    {
+      "node_id": "2861:778",
+      "figma_name": "dots-horizontal",
+      "path": "System/dots-horizontal.png"
+    },
+    {
+      "node_id": "2861:779",
+      "figma_name": "dots-vertical",
+      "path": "System/dots-vertical.png"
+    },
+    {
+      "node_id": "4194:1332",
+      "figma_name": "droplet",
+      "path": "System/droplet.png"
+    },
+    {
+      "node_id": "2903:1190",
+      "figma_name": "exit-theater-mode",
+      "path": "System/exit-theater-mode.png"
+    },
+    {
+      "node_id": "4063:1192",
+      "figma_name": "eye-close",
+      "path": "System/eye-close.png"
+    },
+    {
+      "node_id": "3475:1437",
+      "figma_name": "eye-off",
+      "path": "System/eye-off.png"
+    },
+    {
+      "node_id": "3475:1438",
+      "figma_name": "eye",
+      "path": "System/eye.png"
+    },
+    {
+      "node_id": "4480:1305",
+      "figma_name": "face-id",
+      "path": "System/face-id.png"
+    },
+    {
+      "node_id": "4480:1306",
+      "figma_name": "fingerprint",
+      "path": "System/fingerprint.png"
+    },
+    {
+      "node_id": "2730:1163",
+      "figma_name": "flag-report",
+      "path": "System/flag-report.png"
+    },
+    {
+      "node_id": "2564:531",
+      "figma_name": "follow",
+      "path": "System/follow.png"
+    },
+    {
+      "node_id": "2617:430",
+      "figma_name": "gear",
+      "path": "System/gear.png"
+    },
+    {
+      "node_id": "3776:1303",
+      "figma_name": "ghost",
+      "path": "System/ghost.png"
+    },
+    {
+      "node_id": "2742:1221",
+      "figma_name": "grid-9",
+      "path": "System/grid-9.png"
+    },
+    {
+      "node_id": "2748:973",
+      "figma_name": "grid-view",
+      "path": "System/grid-view.png"
+    },
+    {
+      "node_id": "2489:1070",
+      "figma_name": "hamburger-menu",
+      "path": "System/hamburger-menu.png"
+    },
+    {
+      "node_id": "4974:1250",
+      "figma_name": "heart-outline",
+      "path": "System/heart-outline.png"
+    },
+    {
+      "node_id": "2489:2648",
+      "figma_name": "heart",
+      "path": "System/heart.png"
+    },
+    {
+      "node_id": "2489:635",
+      "figma_name": "home",
+      "path": "System/home.png"
+    },
+    {
+      "node_id": "3656:2213",
+      "figma_name": "incognito",
+      "path": "System/incognito.png"
+    },
+    {
+      "node_id": "3425:1785",
+      "figma_name": "key-alt",
+      "path": "System/key-alt.png"
+    },
+    {
+      "node_id": "2861:1238",
+      "figma_name": "key",
+      "path": "System/key.png"
+    },
+    {
+      "node_id": "2748:730",
+      "figma_name": "landscape-split",
+      "path": "System/landscape-split.png"
+    },
+    {
+      "node_id": "2748:725",
+      "figma_name": "landscape",
+      "path": "System/landscape.png"
+    },
+    {
+      "node_id": "3070:1736",
+      "figma_name": "lightbulb-off",
+      "path": "System/lightbulb-off.png"
+    },
+    {
+      "node_id": "3070:1627",
+      "figma_name": "lightbulb-on",
+      "path": "System/lightbulb-on.png"
+    },
+    {
+      "node_id": "2526:309",
+      "figma_name": "lock",
+      "path": "System/lock.png"
+    },
+    {
+      "node_id": "2920:1498",
+      "figma_name": "log-out",
+      "path": "System/log-out.png"
+    },
+    {
+      "node_id": "2574:565",
+      "figma_name": "magnifying-glass",
+      "path": "System/magnifying-glass.png"
+    },
+    {
+      "node_id": "3846:1766",
+      "figma_name": "map-pin",
+      "path": "System/map-pin.png"
+    },
+    {
+      "node_id": "3741:2917",
+      "figma_name": "mini-mode",
+      "path": "System/mini-mode.png"
+    },
+    {
+      "node_id": "2609:1046",
+      "figma_name": "minus",
+      "path": "System/minus.png"
+    },
+    {
+      "node_id": "3511:3435",
+      "figma_name": "moon",
+      "path": "System/moon.png"
+    },
+    {
+      "node_id": "4099:1187",
+      "figma_name": "multiselect",
+      "path": "System/multiselect.png"
+    },
+    {
+      "node_id": "2489:637",
+      "figma_name": "open-in",
+      "path": "System/open-in.png"
+    },
+    {
+      "node_id": "2939:827",
+      "figma_name": "picture-in-picture",
+      "path": "System/picture-in-picture.png"
+    },
+    {
+      "node_id": "4488:1683",
+      "figma_name": "pincode",
+      "path": "System/pincode.png"
+    },
+    {
+      "node_id": "2748:733",
+      "figma_name": "portrait-split",
+      "path": "System/portrait-split.png"
+    },
+    {
+      "node_id": "2748:510",
+      "figma_name": "portrait",
+      "path": "System/portrait.png"
+    },
+    {
+      "node_id": "4868:1403",
+      "figma_name": "qr-code-scan",
+      "path": "System/qr-code-scan.png"
+    },
+    {
+      "node_id": "4862:1404",
+      "figma_name": "qr-code",
+      "path": "System/qr-code.png"
+    },
+    {
+      "node_id": "2861:839",
+      "figma_name": "share",
+      "path": "System/share.png"
+    },
+    {
+      "node_id": "3952:1162",
+      "figma_name": "shutdown",
+      "path": "System/shutdown.png"
+    },
+    {
+      "node_id": "2737:742",
+      "figma_name": "sparkles-alt",
+      "path": "System/sparkles-alt.png"
+    },
+    {
+      "node_id": "2730:503",
+      "figma_name": "sparkles",
+      "path": "System/sparkles.png"
+    },
+    {
+      "node_id": "3656:2233",
+      "figma_name": "spy",
+      "path": "System/spy.png"
+    },
+    {
+      "node_id": "2834:687",
+      "figma_name": "star-4",
+      "path": "System/star-4.png"
+    },
+    {
+      "node_id": "2848:1087",
+      "figma_name": "star-outline",
+      "path": "System/star-outline.png"
+    },
+    {
+      "node_id": "2808:4548",
+      "figma_name": "star",
+      "path": "System/star.png"
+    },
+    {
+      "node_id": "6387:1524",
+      "figma_name": "stopwatch",
+      "path": "System/stopwatch.png"
+    },
+    {
+      "node_id": "3774:1467",
+      "figma_name": "store",
+      "path": "System/store.png"
+    },
+    {
+      "node_id": "4194:1327",
+      "figma_name": "sun-dim",
+      "path": "System/sun-dim.png"
+    },
+    {
+      "node_id": "2489:2735",
+      "figma_name": "sun",
+      "path": "System/sun.png"
+    },
+    {
+      "node_id": "2903:1193",
+      "figma_name": "theater-mode",
+      "path": "System/theater-mode.png"
+    },
+    {
+      "node_id": "2489:2702",
+      "figma_name": "toggles",
+      "path": "System/toggles.png"
+    },
+    {
+      "node_id": "2526:308",
+      "figma_name": "trash",
+      "path": "System/trash.png"
+    },
+    {
+      "node_id": "2526:3465",
+      "figma_name": "unlock",
+      "path": "System/unlock.png"
+    }
+  ]
+}

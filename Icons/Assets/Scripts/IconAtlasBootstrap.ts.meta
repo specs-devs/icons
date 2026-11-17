@@ -1,0 +1,59 @@
+- !<AssetImportMetadata/d25c4c26-3909-4ae9-b81e-f9943e0b6df2>
+  ImportedAssetIds:
+    TypeScriptAsset: !<reference> 5b015542-ced9-4176-9b83-383c3a51ad54
+  ImporterName: TypeScriptAssetImporter
+  PrimaryAsset: !<reference> 5b015542-ced9-4176-9b83-383c3a51ad54
+  PackageType: NotAPackage
+  LegacyPackagePolicy: ~
+  ExtraData:
+    {}
+  AssetDataMap:
+    TypeScriptAsset: !<own> 33b79f33-a3be-437b-a9cf-aa2e13cae745
+  DependentFiles:
+    []
+  ImporterSettings: !<AssetImporterSettings>
+    {}
+  CompressionSettings: !<own> 00000000-0000-0000-0000-000000000000
+- !<TypeScriptAssetData/33b79f33-a3be-437b-a9cf-aa2e13cae745>
+  SvgIcon: ""
+  SetupScript:
+    code: ""
+  Description: ""
+  VersionMajor: 0
+  VersionMinor: 0
+  VersionPatch: 0
+  VersionPrerelease: ""
+  UpdateOrder: 0
+  ComponentUid: 8638522d-cdd3-47c8-8452-89490cfa4923
+  ExportUid: 00000000-0000-0000-0000-000000000000
+  PackagePolicy: CanBeUnpacked
+  ScriptInputsHidden:
+    atlas: false
+    columns: false
+    crops: false
+    rows: false
+    verbose: false
+  ScriptTypesHidden:
+    {}
+  ReadMe: !<reference> 00000000-0000-0000-0000-000000000000
+  DeclarationFile: !<reference> 00000000-0000-0000-0000-000000000000
+  Tags:
+    []
+  Attachments:
+    []
+  DefaultScriptInputs:
+    - atlas: !<reference.Texture> 00000000-0000-0000-0000-000000000000
+      crops: !<reference.Texture[]>
+        []
+      columns: !<float> 1.000000
+      rows: !<float> 1.000000
+      verbose: false
+  ScriptTypes:
+    -
+      {}
+  InputLines:
+    - '// @input Asset.Texture atlas {"hint":"The generated atlas texture, e.g. Assets/IconAtlas/used-icons-atlas.png"}'
+    - '// @input Asset.Texture[] crops {"hint":"One crop texture per atlas frame, in frame order. Written by the plugin."}'
+    - '// @input float columns = 1 {"label":"Atlas Columns"}'
+    - '// @input float rows = 1 {"label":"Atlas Rows"}'
+    - '// @input bool verbose {"label":"Log On Start"}'

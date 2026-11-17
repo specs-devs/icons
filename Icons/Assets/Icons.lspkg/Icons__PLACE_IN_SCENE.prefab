@@ -1,0 +1,78 @@
+- !<ObjectPrefab/e571f369-9712-4127-9dd0-d17c38e6a392>
+  PackagePath: ""
+  objects:
+    - !<own> fb52bffd-a3ac-4085-9fcf-4a1eddc52e61
+  LazyLoading: false
+  RetainAssets: true
+  PreviewEnvironment: !<reference> 00000000-0000-0000-0000-000000000000
+- !<SceneObject/e3c3312a-e0a4-47e9-93ed-b8172e724d91>
+  PrefabRemaps:
+    []
+  Name: Icon Board
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: -110.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    []
+  Components:
+    - !<own> fec48e00-94d6-493b-a2b1-5bcfdb37c23c
+- !<SceneObject/fb52bffd-a3ac-4085-9fcf-4a1eddc52e61>
+  PrefabRemaps:
+    - e3c3312a-e0a4-47e9-93ed-b8172e724d91: e3c3312a-e0a4-47e9-6c12-47e8d18db26e
+    - fb52bffd-a3ac-4085-9fcf-4a1eddc52e61: fb52bffd-a3ac-4085-6030-b5e1223ad19e
+    - fec48e00-94d6-493b-a2b1-5bcfdb37c23c: fec48e00-94d6-493b-5d4e-a43024c83dc3
+  Name: Icons__PLACE_IN_SCENE
+  Enabled: true
+  Layers: 1
+  LocalTransform: !<TransformEntity>
+    Position: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Rotation: {x: 0.000000, y: 0.000000, z: 0.000000}
+    Scale: {x: 1.000000, y: 1.000000, z: 1.000000}
+    HasSegmentScaleCompensation: false
+  Children:
+    - !<own> e3c3312a-e0a4-47e9-93ed-b8172e724d91
+  Components:
+    []
+- !<ScriptComponent/fec48e00-94d6-493b-a2b1-5bcfdb37c23c>
+  PrefabRemaps:
+    []
+  Name: IconBoard
+  Enabled: true
+  ScriptAsset: !<reference> a1c5520a-4905-4a8f-97db-a73aad0b69d7
+  ScriptInputsDefault:
+    overallScale: true
+    iconScale: true
+    iconColumns: true
+    groupColumns: true
+    cellSize: true
+    groupGap: true
+    panelPadding: true
+    titleTextHeight: true
+    nameTextHeight: true
+    showIconNames: true
+    showPanels: true
+  ScriptTypesDefault:
+    {}
+  ScriptInputs:
+    "":
+      overallScale: !<float> 1.000000
+      iconScale: !<float> 1.000000
+      iconColumns: !<float> 10.000000
+      groupColumns: !<float> 2.000000
+      cellSize: !<float> 4.000000
+      groupGap: !<float> 6.000000
+      panelPadding: !<float> 2.000000
+      titleTextHeight: 2.600000
+      nameTextHeight: 0.600000
+      showIconNames: true
+      showPanels: true
+      iconMaterial: !<reference.Material> cdb5ca08-2762-4cdf-b1a3-1825bc08be4f
+      panelMaterial: !<reference.Material> fbbec0af-a544-40ca-87fd-4d93747498f7
+      atlas: !<reference.Texture> 747ad48a-cb3d-41a7-8635-773ea296e5d2
+  ScriptTypes:
+    "":
+      {}
